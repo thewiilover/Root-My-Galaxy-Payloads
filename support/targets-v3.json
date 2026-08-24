@@ -192,7 +192,7 @@
       "kernelVersions": ["5.15.178"],
       "exploit": {
         "url": "https://raw.githubusercontent.com/thewiilover/Root-My-Galaxy-Payloads/main/artifacts/q5q-F946USQS7FZC5/cve-2026-43499-app.so",
-        "size": 111960
+        "size": 104128
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/thewiilover/Root-My-Galaxy-Payloads/main/kernelsu/ksud-q5q-F946USQS7FZC5-kdp",

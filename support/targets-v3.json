@@ -284,17 +284,41 @@
       }
     },
     {
-      "payloadId": "q5q-F946USQS7FZC5",
+      "payloadId": "q5q-F946USQS8GZE8",
       "displayName": "Galaxy Z Fold 5 | Kernel 5.15.189",
-      "models": ["SM-F946U", "SM-F946U1", "SM-F946W", "SM-F9460", "SM-F946N", "SM-F946B"],
-      "kernelVersions": ["5.15.189"],
+      "models": [
+        "SM-F946U",
+        "SM-F946U1"
+      ],
+      "kernelVersions": [
+        "5.15.189"
+      ],
       "exploit": {
-        "url": "https://raw.githubusercontent.com/thewiilover/Root-My-Galaxy-Payloads/main/artifacts/q5q-F946USQS8GZE8/cve-2026-43499-app.so",
-        "size": 111592
+        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/artifacts/q5q-F946USQS8GZE8/cve-2026-43499-app.so",
+        "size": 104128
       },
       "kernelsu": {
-        "url": "https://raw.githubusercontent.com/thewiilover/Root-My-Galaxy-Payloads/main/kernelsu/ksud-q5q-F946U-kdp.ko",
-        "size": 367736
+        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-q5q-F946USQS8GZE8-kdp",
+        "size": 4781464
+      }
+    },
+    {
+      "payloadId": "e1s-S921NKSSFDZF3",
+      "displayName": "Galaxy S24 | Kernel 6.1.157",
+      "models": [
+        "SM-S921N"
+      ],
+      "kernelVersions": [
+        "6.1.157"
+      ],
+      "requiresFreshP0Session": true,
+      "exploit": {
+        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/artifacts/e1s-S921NKSSFDZF3/cve-2026-43499-app.so",
+        "size": 104128
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e1s-S921NKSSFDZF3-kdp",
+        "size": 4758872
       }
     }
   ]
